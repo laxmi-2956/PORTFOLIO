@@ -30,7 +30,7 @@
   box-shadow: 0 0 10px #00d9ff30;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
-  text-align: justify;
+   text-align: justify;
 }
 
 .project-card:hover {
